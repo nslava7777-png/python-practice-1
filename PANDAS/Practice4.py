@@ -119,3 +119,4 @@ if __name__ == "__main__":
 
             saver = ResultSaver(analyser.results, 'output/result.json')
             saver.save_json()
+            
