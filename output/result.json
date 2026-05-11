@@ -293,9 +293,6 @@
         }
     ],
     "statistics": {
-        "total_students": 10000,
-        "avg_gpa": 3.62,
-        "score_above_95": 7166,
-        "assign_above_90": 6822
+        "total_students": 10000
     }
 }
